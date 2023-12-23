@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactLiveMiniApp/static/css/main.6a13037f.css",
+    "main.js": "/ReactLiveMiniApp/static/js/main.982fcda0.js",
+    "static/js/787.abecabe4.chunk.js": "/ReactLiveMiniApp/static/js/787.abecabe4.chunk.js",
+    "static/media/img_miniapp.png": "/ReactLiveMiniApp/static/media/img_miniapp.9f033d8b289fc39d582b.png",
+    "static/media/logo.svg": "/ReactLiveMiniApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactLiveMiniApp/index.html",
+    "main.6a13037f.css.map": "/ReactLiveMiniApp/static/css/main.6a13037f.css.map",
+    "main.982fcda0.js.map": "/ReactLiveMiniApp/static/js/main.982fcda0.js.map",
+    "787.abecabe4.chunk.js.map": "/ReactLiveMiniApp/static/js/787.abecabe4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a13037f.css",
+    "static/js/main.982fcda0.js"
+  ]
+}
